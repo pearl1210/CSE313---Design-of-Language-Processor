@@ -1,0 +1,15 @@
+Aim: The aim of the practical is to write a program to construct a DFA which checks whether a the provided string satisfies a given Regular Expression or not. The following information is to be taken as the input from the user:
+
+number of input symbols
+input symbols 
+number of states
+initial state
+Number of accepting state
+The accepting state
+transition table to show the transition of symbols from one state to the other
+
+The test cases are as follows: 
+
+a)String over 0 and 1 where every 0 is immediately followed by 11 
+b)string over a,b,c starts and ends with same letter
+c)string over lowercase alphabet and digits , starts with alphabet only.

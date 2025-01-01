@@ -1,0 +1,16 @@
+This text file contains the test cases for the given Aim of the practical.
+
+Aim: The aim of the practical is to write a C program which accepts a string and checks if the input string satisfies the Regular Expression a*bb. If the string satisfies the Regular Expression then print Valid String to the console else print Invalid String.
+
+Test Cases
+
+^ : Invalid String
+bbbb : Invalid String
+aaa: Invalid String
+bbaaabb: Invalid String
+aaabbb: Invalid String
+baaabb: Invalid String
+aaaab: Invalid String
+abbabb: Invalid String
+abb: Valid String
+aaaaabb: Valid String
