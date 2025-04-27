@@ -1,0 +1,28 @@
+Noun 
+Pronoun
+Verbs
+Adverbs
+Adjective
+Prepositions
+Conjuctions
+Disjunction
+intersection
+
+ one para...min 10 lines each line 20 words identify end gr  stuff
+
+
+ ambiguty 
+-->  turn off the light
+she carried a light bag --> her ambiguty  mark this
+
+--> common noun Apple - fruit(common noun) & company (proper noun)
+
+Noun 
+Pronoun
+Verbs
+Adverbs
+Adjective
+Prepositions
+Conjuctions
+Disjunction
+intersection in paragraph and also should able to identify ambiguty like (turn off the light here light is adverb and in she carries a light bag here light adjective so also that shows this kind of ambiguty in paragraph and also one mor ething sis there to be taken care opf is that program should be able to differentiate common noun and proper noun like Apple is sweet (apple as a fruit). Apple CEO makes profit(apple as company name means proper noun) ) 

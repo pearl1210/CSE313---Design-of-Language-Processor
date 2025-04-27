@@ -1,0 +1,5 @@
+flex number_extractor.l
+//lex.yy.c would be generated
+gcc lex.yy.c -o extractor (for windows)
+//extractor.exe would be generated
+./extractor
